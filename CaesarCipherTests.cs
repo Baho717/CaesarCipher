@@ -1,5 +1,5 @@
 using Xunit;
-using CaesarCipher.cs;
+using CaesarCipher;
 
 public class CaesarCipherTests
 {
